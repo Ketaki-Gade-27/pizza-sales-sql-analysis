@@ -7,32 +7,32 @@ This file contains summarized outputs for each query.
 ## Dataset Exploration
 
 **Q1. How many orders were placed in total?**  
-➡ [Total_orders
-    21350]  
+Total_orders
+    21350  
 
 
 **Q2. How many unique pizzas are available on the menu?**  
-➡ [available_pizza_count
-    32]  
+available_pizza_count
+    32 
 
 
 **Q3. What are the different pizza categories and sizes available?**  
-➡ Categories: [Chicken
+Categories: Chicken
                 Classic
                 Supreme
-                Veggie]  
-➡ Sizes: [L
+                Veggie  
+Sizes:  L
            M
            S
            XL
-           XXL]  
+           XXL  
 
 ---
 
 ## Order & Sales Trends
 
 **Q4. What is the trend of orders per day/week/month?**  
-➡ Daily Trend: 
+Daily Trend: 
 Sample Daily Data (first 5 days):
     date	      total_orders
   2015-01-01	      69
@@ -41,7 +41,7 @@ Sample Daily Data (first 5 days):
   2015-01-04	      52
   2015-01-05	      54
 
-➡ Weekly Trend: 
+Weekly Trend: 
 Sample Weekly Data (first 5 weeks):
   week	total_orders
     1	      202
@@ -50,7 +50,7 @@ Sample Weekly Data (first 5 weeks):
     4	      422
     5	      393
 
-➡ Monthly Trend: 
+Monthly Trend: 
 Sample Monthly Data (first 5 months):
    month	  month_no	total_orders
   January	    1	          1845
